@@ -1,1 +1,1 @@
-test new
+example of merege conflict 1
